@@ -131,5 +131,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://amazing-mars-avatar-0632b.netlify.app"
 }
